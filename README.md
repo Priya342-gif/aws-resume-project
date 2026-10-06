@@ -7,6 +7,7 @@ A serverless resume website built using AWS services. The website displays my re
 This project demonstrates how to build a simple serverless resume website using AWS cloud services.
 
 The frontend is built using HTML, CSS and JavaScript, while the visitor counter is implemented using AWS Lambda, API Gateway and DynamoDB.
+<img width="625" height="627" alt="image" src="https://github.com/user-attachments/assets/2fc0db78-8f39-4fcb-9caf-236b7d2b05a6" />
 
 ## 🏗️ Architecture
 
