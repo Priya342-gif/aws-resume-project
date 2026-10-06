@@ -12,22 +12,32 @@ The frontend is built using HTML, CSS and JavaScript, while the visitor counter 
 
 📸 Screenshots
 Amazon S3
+
+
 <img width="758" height="587" alt="image" src="https://github.com/user-attachments/assets/ee8b9155-7100-4890-b0f5-d863c9ecd4e6" />
 
  
 DynamoDB
+
+
 <img width="750" height="675" alt="image" src="https://github.com/user-attachments/assets/786b89dc-7c70-4d0c-8c09-4d122901ed28" />
 
  
 AWS Lambda
+
+
 <img width="737" height="706" alt="image" src="https://github.com/user-attachments/assets/1d9effc3-e1e8-45f4-832c-63ba8835f902" />
 
  
 API Gateway
+
+
 <img width="478" height="382" alt="image" src="https://github.com/user-attachments/assets/ce01422e-ad5c-490b-9d01-335976617735" />
 
  
 Resume Website
+
+
 <img width="1535" height="783" alt="image" src="https://github.com/user-attachments/assets/e9478d9c-8d1c-4518-a21f-04dcf426cd2c" />
 
 <img width="1535" height="813" alt="image" src="https://github.com/user-attachments/assets/038f2519-c0cd-4a47-954b-3ce643680074" />
@@ -41,6 +51,7 @@ Resume Website
 
  
 Visitor Counter
+
 
 <img width="1507" height="713" alt="image" src="https://github.com/user-attachments/assets/aa381094-eebe-442c-9d68-37d129756fe9" />
 
